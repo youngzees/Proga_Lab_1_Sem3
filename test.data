@@ -1,0 +1,5 @@
+M myarr 10 20
+F myflist 1 99 2 3
+S mystack 100
+Q myqueue 2
+T mytree 5(3)(7)
